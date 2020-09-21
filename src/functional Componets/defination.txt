@@ -1,0 +1,8 @@
+In functional components react take non mutable object as props to the functional component 
+
+
+i.e in App.js when we create a function or react component then it bydefault takes object as parameter 
+
+
+when we provide values in <App title="My App"/>  then this component function takes those values of render element as their parameter 
+in the object format.
